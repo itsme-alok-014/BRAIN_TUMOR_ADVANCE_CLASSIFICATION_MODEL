@@ -67,23 +67,25 @@ This project demonstrates a complete Deep Learning workflow including:
 
 ## 🏠 Home Page
 
-> Replace after uploading screenshot.
-
-```text
-screenshots/home_page.png
-```
+<p align="center">
+  <img src="screenshots/home_page.png" width="100%">
+</p>
 
 ---
 
-## 🔍 Prediction Result
+## 🤖 CNN Model Prediction
 
-> Replace after uploading screenshot.
-
-```text
-screenshots/prediction_result.png
-```
+<p align="center">
+  <img src="screenshots/cnn_prediction.png" width="100%">
+</p>
 
 ---
+
+## 🧠 Hybrid Model Prediction
+
+<p align="center">
+  <img src="screenshots/hybrid_prediction.png" width="100%">
+</p>
 
 # 📊 Model Performance
 
