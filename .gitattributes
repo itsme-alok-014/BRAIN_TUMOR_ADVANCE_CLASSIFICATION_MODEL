@@ -1,0 +1,6 @@
+# Track Keras models with Git LFS
+*.keras filter=lfs diff=lfs merge=lfs -text
+# Optional (future proof)
+*.h5 filter=lfs diff=lfs merge=lfs -text
+*.hdf5 filter=lfs diff=lfs merge=lfs -text
+*.pb filter=lfs diff=lfs merge=lfs -text
