@@ -7,4 +7,4 @@ opencv-python-headless==4.9.0.80
 Pillow==10.2.0
 imutils==0.5.4
 matplotlib==3.8.4
-cvzone==1.5.6
+
