@@ -250,7 +250,7 @@ with left:
     if uploaded_file is not None:
         file_bytes = np.asarray(bytearray(uploaded_file.read()), dtype=np.uint8)
         opencv_image = cv2.imdecode(file_bytes, 1)
-        st.image(opencv_image, channels="BGR", use_container_width=True, caption=uploaded_file.name)
+        st.image(opencv_image, channels="BGR", caption=uploaded_file.name)
         analyze_clicked = st.button("🔍  Analyze Scan", key="analyze_button")
     else:
         st.markdown('<div class="placeholder-box">Drag & drop or browse to upload an MRI scan<br>to begin analysis</div>', unsafe_allow_html=True)
