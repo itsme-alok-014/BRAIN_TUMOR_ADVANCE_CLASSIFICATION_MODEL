@@ -1,0 +1,14 @@
+=== Brain Tumor Classification Model Performance ===
+
+Number of classes: 4
+Classes: glioma, meningioma, pituitary, no_tumor
+
+=== CNN Model ===
+Test Accuracy: 0.9726
+Test Loss: 0.0915
+F1 Score: 0.9725
+
+=== Hybrid Model ===
+Test Accuracy: 0.9847
+Test Loss: 0.0342
+F1 Score: 0.9847
